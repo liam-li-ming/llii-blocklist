@@ -5,16 +5,18 @@
 ||io.home^
 ||org.home^
 ||mobi.home^
-||*.ru^
-||google.com.hk^
-||cn.mm.bing.net^
-||cn.bing.com^
 ################# per_client_block #################
 ||*.cn^$client='SAMSUNG-GALAXY-S23-PLUS'
 ||*.cn^$client='Windows-adam'
 ||*.cn^$client='iPad-Pro-adam'
 ||*.cn^$client='MacBook-Air-wifi-adam'
 ||baidu.com^$client='Poco-adam'
+||*.ru^
+||google.com.hk^
+||cn.bing.com^
+||cn.mm.bing.net^
+||bing.cn^
+||msn.cn^
 ################# unblock_list #################
 @@||wargaming.net^$client='Windows-adam'
 @@||graph.facebook.com^
@@ -140,7 +142,6 @@
 ||samsungads.com^
 ||samsungtifa.com^
 ||samsungcloud.com.cn^
-||connectivity.samsung.com.cn^
 ||samsungcloudcn.com^
 ||samsung.cn^
 ||samsung.com.cn^
@@ -596,6 +597,3 @@
 ||zx.game.xiaomi.comstat.xiaomi.com^
 ||dun.mi.com^
 ||miwifi.com^
-||doritorok.es^
-||cn.pool.ntp.org^$important
-||hk.pool.ntp.org^$important
