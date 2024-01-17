@@ -1,10 +1,3 @@
-||com.home^
-||net.home^
-||cn.home^
-||hk.home^
-||io.home^
-||org.home^
-||mobi.home^
 ################# per_client_block #################
 ||*.cn^$client='SAMSUNG-GALAXY-S23-PLUS'
 ||*.cn^$client='Windows-adam'
