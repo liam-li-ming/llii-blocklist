@@ -80,6 +80,7 @@
 ||cookie-cdn.cookiepro.com^
 ||qonversion.io^
 ||revenuecat.com^
+||ks-live.com^
 ################# huawei_block #################
 ||dbankcdn.cn^
 ||dbankcdn.com^
