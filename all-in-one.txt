@@ -1,14 +1,12 @@
 ################# per_client_block #################
 ||*.cn^$client='SAMSUNG-GALAXY-S23-PLUS'
 ||*.cn^$client='iPad-Pro-adam'
-||baidu.com^$client='Poco-adam'
 ||*.ru^
 ||cn.bing.com^
 ||cn.mm.bing.net^
 ||bing.cn^
 ||msn.cn^
 ################# unblock_list #################
-# @@||www.eddid.com.hk^$client='Legion-mike'
 @@||ap6.ssl.msdk.qq.com^
 ################# tencent_block #################
 ||dns.weixin.qq.com^
@@ -33,8 +31,6 @@
 ||voice.qcloud.com^
 ||voice.gcloudcs.com^
 ||weiyun.com^
-||smoba.qq.com^
-||flow.qq.com^
 ||perfsight.qq.com^
 ||livelink.qq.com^
 ################# 360_block #################
