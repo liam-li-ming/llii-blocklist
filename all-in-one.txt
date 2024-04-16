@@ -78,6 +78,7 @@
 ||revenuecat.com^
 ||ks-live.com^
 ||optimizely.com^
+||cup.com.cn^
 ################# huawei_block #################
 ||dbankcdn.cn^
 ||dbankcdn.com^
