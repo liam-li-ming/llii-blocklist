@@ -133,6 +133,7 @@
 ||samsungdm.com^
 ||samsungvisioncloud.com^
 ||samsungosp.com.cn^
+||sdk.pushmessage.samsung.com^
 ################# xiaomi_block #################
 ||10-awsind.bigdata.pub.neo.xiaomi.com^
 ||11-c3.bigdata.ctc.neo.xiaomi.com^
