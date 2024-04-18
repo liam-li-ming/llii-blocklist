@@ -79,6 +79,9 @@
 ||ks-live.com^
 ||optimizely.com^
 ||cup.com.cn^
+||external-preview.redd.it^
+||e.reddit.com^
+||v.redd.it^
 ################# huawei_block #################
 ||dbankcdn.cn^
 ||dbankcdn.com^
