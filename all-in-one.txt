@@ -33,6 +33,9 @@
 ||weiyun.com^
 ||perfsight.qq.com^
 ||livelink.qq.com^
+################# baidu_block #################
+||miaowu.baidu.com^
+||myzhiniu.com^
 ################# 360_block #################
 ||360.cn^
 ||360.com^
