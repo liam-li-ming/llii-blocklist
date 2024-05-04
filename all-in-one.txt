@@ -585,5 +585,4 @@
 ||zhuti.xiaomi.com^
 ||zx.game.xiaomi.com^
 ||zx.game.xiaomi.comstat.xiaomi.com^
-||dun.mi.com^
 ||miwifi.com^
