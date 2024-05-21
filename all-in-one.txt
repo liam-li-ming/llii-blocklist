@@ -135,7 +135,6 @@
 ||samsung.cn^
 ||samsung.com.cn^
 ||samsungpositioning.com.cn^
-||samsungdm.com^
 ||samsungvisioncloud.com^
 ||samsungosp.com.cn^
 ||sdk.pushmessage.samsung.com^
