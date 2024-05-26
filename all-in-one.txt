@@ -365,7 +365,6 @@
 ||marketing.ad.xiaomi.com^
 ||marketing.ai.xiaomi.com^
 ||market.mi-img.com^
-||market.xiaomi.com^
 ||matrix.api.ad.xiaomi.com^
 ||max.ad.xiaomi.com^
 ||mazu.sec.miui.com^
