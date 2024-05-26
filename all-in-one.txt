@@ -364,7 +364,6 @@
 ||mantual.pandora.xiaomi.com^
 ||marketing.ad.xiaomi.com^
 ||marketing.ai.xiaomi.com^
-||market.mi-img.com^
 ||matrix.api.ad.xiaomi.com^
 ||max.ad.xiaomi.com^
 ||mazu.sec.miui.com^
