@@ -178,7 +178,6 @@
 ||api.hybrid.xiaomi.com^
 ||api.micloud.xiaomi.net^
 ||api.miui.security.xiaomi.com^
-||api.miwifi.com^
 ||api.sec.intl.miui.com^
 ||api.sec.miui.com^
 ||api.setting.intl.miui.com^
