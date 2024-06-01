@@ -2,10 +2,6 @@
 ||*.cn^$client='SAMSUNG-GALAXY-S23-PLUS'
 ||*.cn^$client='iPad-Pro-adam'
 ||*.ru^
-||cn.bing.com^
-||cn.mm.bing.net^
-||bing.cn^
-||msn.cn^
 ################# unblock_list #################
 @@||ap6.ssl.msdk.qq.com^
 ################# tencent_block #################
@@ -82,8 +78,14 @@
 ||ks-live.com^
 ||optimizely.com^
 ||cup.com.cn^
-||e.reddit.com^
-||v.redd.it^
+||cn.bing.com^
+||cn.mm.bing.net^
+||bing.cn^
+||msn.cn^
+||cn.pool.ntp.org^
+||yandex.com^
+||video.qq.com^
+||ibaiqiu.cn^
 ################# huawei_block #################
 ||dbankcdn.cn^
 ||dbankcdn.com^
