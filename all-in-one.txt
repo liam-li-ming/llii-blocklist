@@ -262,13 +262,12 @@
 ||default.data.mistat.xiaomi.com^
 ||default.sdkconfig.ad.xiaomi.com^
 ||de.pandora.xiaomi.com^
-||de-idm.api.io.mi.com^
+||api.io.mi.com^
 ||dev.api.zhuti.n.xiaomi.com^
 ||dev.market.n.xiaomi.com^
 ||dev.staging.api.developer.n.xiaomi.com^
 ||d.g.mi.com^
 ||diagnosis.ad.xiaomi.com^
-||dlg.io.mi.com^
 ||drm.market.xiaomi.com^
 ||dvb.pandora.xiaomi.com^
 ||dvb.pre.pandora.xiaomi.com^
@@ -415,9 +414,6 @@
 ||onebox.market.n.xiaomi.com^
 ||onebox.xmpush.xiaomi.com^
 ||order.music.xiaomi.com^
-||ot.io.mi.com^
-||ots.io.mi.com^
-||ott.io.mi.com^
 ||ottl7-l2.pandora.xiaomi.com^
 ||pdc.micloud.xiaomi.net^
 ||phonecallapi.micloud.xiaomi.net^
@@ -570,7 +566,6 @@
 ||wifiapi.micloud.xiaomi.net^
 ||w.pandora.xiaomi.com^
 ||xadx.file.market.xiaomi.com^
-||xiaomi.net^
 ||xiazai.xiaomi.com^
 ||xitong.xiaomi.com^
 ||xlmc.sec.miui.com^
@@ -582,4 +577,3 @@
 ||zhuti.xiaomi.com^
 ||zx.game.xiaomi.com^
 ||zx.game.xiaomi.comstat.xiaomi.com^
-||miwifi.com^
