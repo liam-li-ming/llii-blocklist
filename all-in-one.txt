@@ -86,6 +86,7 @@
 ||yandex.com^
 ||video.qq.com^
 ||ibaiqiu.cn^
+||9game.cn^
 ################# huawei_block #################
 ||dbankcdn.cn^
 ||dbankcdn.com^
