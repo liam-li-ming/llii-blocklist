@@ -1,6 +1,4 @@
 ################# per_client_block #################
-||*.cn^$client='SAMSUNG-GALAXY-S23-PLUS'
-||*.cn^$client='iPad-Pro-adam'
 ||*.ru^
 ################# unblock_list #################
 @@||ap6.ssl.msdk.qq.com^
@@ -84,7 +82,6 @@
 ||msn.cn^
 ||cn.pool.ntp.org^
 ||yandex.com^
-||video.qq.com^
 ||ibaiqiu.cn^
 ||9game.cn^
 ################# huawei_block #################
