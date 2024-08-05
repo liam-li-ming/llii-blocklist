@@ -5,7 +5,6 @@
 ################# tencent_block #################
 ||dns.weixin.qq.com^
 ||dns.weixin.qq.com.cn^
-||map.qq.com^
 ||safebrowsing.urlsec.qq.com^
 ||tgpa.qq.com^
 ||kohesport.qq.com^
