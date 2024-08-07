@@ -20,9 +20,6 @@
 ||anticheatexpert.com^
 ||kg.qq.com^
 ||ulikecam.com^
-||voicecloud.cn^
-||voice.qcloud.com^
-||voice.gcloudcs.com^
 ||weiyun.com^
 ||perfsight.qq.com^
 ||livelink.qq.com^
